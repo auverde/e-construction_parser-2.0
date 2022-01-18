@@ -1,8 +1,8 @@
 spec:
-  name: sample-python
+  name: econsparser
   services:
   - environment_slug: python
     git:
-      branch: master
+      branch: new
       repo_clone_url: https://github.com/auverde/e-construction_parser-2.0.git
     name: econsparser

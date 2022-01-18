@@ -2,7 +2,7 @@ name: econsparser
 services:
 - environment_slug: python
   github:
-    branch: master
+    branch: new
     deploy_on_push: true
     repo: auverde/e-construction_parser-2.0
   name: econsparser
